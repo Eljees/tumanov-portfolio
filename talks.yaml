@@ -60,23 +60,50 @@
   status: delivered
   url: https://vk.com/video196891_167335441
 
-- id: microsoft-spb-2012
-  year: 2012
-  venue_ru: Конкурс/школа Microsoft, Санкт-Петербург
-  venue_en: Microsoft competition/school, St. Petersburg
-  status: participation
-  title_en: "Methodic of destructive properties software verification for cloud computations"
-  note_ru: "Abstract и synopsis по методике верификации ПО на деструктивные свойства для облачных вычислений; сохранён диплом Microsoft."
+- id: msr-summer-school-2011
+  year: 2011
+  date: "2011-06-27/2011-07-01"
+  venue_ru: Microsoft Research Summer School 2011, Кембридж, Великобритания
+  venue_en: Microsoft Research Summer School 2011, Cambridge, UK
+  title_en: "Behavioral detection of malicious interpreted code"
+  status: delivered
+  url: http://blogs.msdn.com/b/msr_er/archive/2011/07/12/top-students-descend-on-microsoft-research-cambridge.aspx
+  source: автореферат, апробация работы
+  note_ru: "Отдельно в архиве лежит пакет piter_microsoft_2012 (abstract и synopsis по методике верификации ПО для облачных сред) — более поздняя заявка, к этой школе не относится."
 
 - id: svoe-delo-2011
   year: 2011
   date: "2011-05-18"
-  venue_ru: Финал конкурса «Своё дело», МИЭМП, Москва
-  venue_en: "\"Svoyo Delo\" startup competition final, MIEMP, Moscow"
+  venue_ru: Конкурс молодёжных предпринимательских проектов «Своё дело», Москва (площадка МИЭМП)
+  venue_en: "\"Svoyo Delo\" youth entrepreneurship competition, Moscow"
   status: delivered
   format_ru: защита проекта (бизнес-план и презентация), заявка от НИЯУ МИФИ
-  note_ru: "Не доклад на конференции, а финал конкурса предпринимательских проектов; освещался в новостях МИЭМП."
+  source: автореферат, апробация работы
   urls: ["http://www.miemp.ru/novosti/svoe-delo/", "http://old.miemp.ru/news/03.06.11/1.html"]
+
+- id: skolkovo-umnik-2011
+  year: 2011
+  date: "2011-03-15"
+  venue_ru: «Умник сколковец», Москва, МТЦ
+  venue_en: "\"Umnik Skolkovets\" competition, Moscow"
+  status: delivered
+  award_ru: победитель конкурса «Кадровый резерв молодых учёных и специалистов "Сколково"», 15.03.2011
+  source: автореферат, апробация работы
+  note_ru: "К этому событию относится сохранённая презентация «Туманов_Сколково.ppt»."
+
+- id: technopark-mephi-2011
+  year: 2011
+  venue_ru: X конкурс молодёжных инновационных проектов технопарка МИФИ, Москва
+  venue_en: 10th MEPhI Technopark youth innovation project competition, Moscow
+  status: delivered
+  source: автореферат, апробация работы
+
+- id: molodezh-i-nauka-2011
+  year: 2011
+  venue_ru: XIV международная телекоммуникационная конференция молодых учёных и студентов «Молодёжь и наука», Москва
+  venue_en: 14th International Telecommunication Conference of Young Scientists and Students, Moscow
+  status: delivered
+  source: автореферат, апробация работы
 
 - id: mephi-session-2011
   year: 2011
@@ -99,22 +126,18 @@
 
 - id: ruscrypto-2009
   year: 2009
-  venue_ru: РусКрипто 2009
+  venue_ru: РусКрипто'2009
   venue_en: RusCrypto 2009
-  status: participation
+  title_ru: "Разработка программы обнаружения вредоносных сценариев JavaScript на основе поведенческих сигнатур"
+  status: delivered
   url: http://www.ruscrypto.org/sources/conference/rc2009/
-  materials: программа конференции (PDF)
+  source: автореферат, публикации по теме диссертации
 
 - id: infoforum-2009
   year: 2009
-  date: "2009-01-26"
-  venue_ru: Инфофорум, 2009
-  venue_en: Infoforum, 2009
-  status: participation
+  date: "2009-01-29/2009-01-30"
+  venue_ru: XI Национальный форум информационной безопасности «Информационная безопасность России в условиях глобального информационного общества» (Инфофорум), Москва
+  venue_en: 11th National Information Security Forum (Infoforum), Moscow
+  status: delivered
+  source: автореферат, апробация работы
   urls: ["http://www.infoforum.ru/news/?p=628&n=819", "http://www.infoforum.ru/news/?n=760"]
-
-- id: skolkovo
-  year: null
-  venue_ru: Сколково
-  status: to_verify
-  note_ru: "Сохранена презентация «Туманов_Сколково.ppt». В почте за 2012 год — Открытый университет Сколково с Microsoft («ЗаPush свой проект», октябрь 2012), вебинары фонда и рассылки Зворыкинского проекта; к какому именно событию относится презентация, не установлено."
