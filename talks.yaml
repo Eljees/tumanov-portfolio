@@ -70,26 +70,22 @@
 
 - id: mephi-session-2011
   year: 2011
-  venue_ru: Научная сессия НИЯУ МИФИ, 2011
-  venue_en: Scientific session of NRNU MEPhI, 2011
-  status: delivered
-  materials: фотоматериалы выступления
-
-- id: mephi-school-2010
-  year: 2010
-  venue_ru: Научная школа НИЯУ МИФИ, 2010
-  venue_en: Scientific school of NRNU MEPhI, 2010
-  title_ru: "Поведенческий анализ вредоносного кода, реализованного на языке JavaScript"
+  venue_ru: Научная сессия НИЯУ МИФИ-2011 (аннотация подана в 2010)
+  venue_en: Scientific session of NRNU MEPhI-2011
+  title_ru: "Выявление интерпретируемого вредоносного кода на основе поведенческих сигнатур"
   title_en: "Behaviour analysis of JavaScript malicious code"
   status: delivered
+  materials: "аннотация в сборнике (Т. 3, с. 165), заявка и информация о докладе, фотоматериалы"
+  note_ru: "В программе сессии доклад заявлен как «Поведенческий анализ вредоносного кода, реализованного на языке JavaScript»."
 
 - id: kurchatov-2009
   year: 2009
-  venue_ru: Курчатовская молодёжная научная школа, 2009
-  venue_en: Kurchatov Youth Scientific School, 2009
-  title_ru: "Использование поведенческого анализа для выявления вредоносного кода на примере JavaScript-сценариев"
+  date: "2009-11-10/2009-11-12"
+  venue_ru: 7-я Курчатовская молодёжная научная школа, РНЦ «Курчатовский институт», Москва
+  venue_en: 7th Kurchatov Youth Scientific School, Kurchatov Institute, Moscow
+  title_ru: "Использование поведенческого анализа для выявления вредоносного кода, на примере JavaScript сценариев"
   status: delivered
-  materials: доклад, презентация, публикация в сборнике (скан обложки и тезисов)
+  materials: доклад, презентация, аннотация в сборнике (с. 157)
 
 - id: ruscrypto-2009
   year: 2009
