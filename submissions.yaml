@@ -1,5 +1,5 @@
 # Заявки и подачи 2026 / CFP pipeline 2026.
-# status: accepted | rejected | awaiting_decision | submitted | prepared | postponed
+# status: accepted | rejected | awaiting_decision | submitted | prepared | postponed | not_submitted
 # Статусы сверены с перепиской в почте по состоянию на 08.09.2026.
 
 - id: ccci-2026
@@ -20,10 +20,11 @@
 
 - id: offzone-2026
   venue: "OFFZONE 2026, Москва, 20–21.08.2026"
-  title_ru: "ZeroFalse для SAST: локальные LLM, evidence-gate и triage без галлюцинаций"
+  title_ru: "ZeroFalse для SAST: локальные LLM, evidence-gate и триаж без галлюцинаций"
   status: accepted
   decision_date: "2026-07-14"
-  note_ru: "MAIN TRACK. Доклад состоялся — см. talks.yaml."
+  track: AppSec.Zone
+  note_ru: "Доклад состоялся, видео и презентация опубликованы — см. talks.yaml."
 
 - id: code-blue-2026
   venue: "CODE BLUE 2026"
@@ -61,12 +62,12 @@
 - id: standoff-talks-2026
   venue: "Standoff Talks, 18–19.06.2026"
   title_ru: "ZeroFalse / LLM-триаж SAST"
-  status: prepared
-  note_ru: "Пакет CFP подготовлен (standoff_talks_2026_zerofalse_llm_cfp). Подтверждения подачи в переписке не найдено — уточнить."
+  status: rejected
+  note_ru: "Заявка подана (пакет standoff_talks_2026_zerofalse_llm_cfp), доклад не отобран."
 
 - id: ri-2026
   venue: "XX Санкт-Петербургская международная конференция «Региональная информатика» (РИ-2026), 28–30.10.2026"
   title_ru: "Метод отбора классов дефектов для контролируемой автоматизации триажа SAST-срабатываний локальной языковой моделью"
-  status: prepared
+  status: not_submitted
   results: "правило допуска D(c)=1 при n(c)≥10, a(c)≥0,75, m(c)≥8; допуск прошли CWE-256, CWE-321, CWE-330, CWE-506, CWE-798"
-  note_ru: "Тезисы и чек-лист готовы (срок подачи — 31.07.2026). Подтверждения подачи в переписке не найдено — уточнить."
+  note_ru: "Тезисы и чек-лист готовы, но заявка не подавалась (срок 31.07.2026 пропущен). Материал пригоден для повторного использования на другой площадке."

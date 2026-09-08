@@ -16,12 +16,17 @@
   date: "2026-08-20/2026-08-21"
   venue_ru: OFFZONE 2026, Москва
   venue_en: OFFZONE 2026, Moscow
-  title_ru: "ZeroFalse для SAST: локальные LLM, evidence-gate и triage без галлюцинаций"
-  title_en: "ZeroFalse for SAST: local LLMs, evidence gate and triage without hallucinations"
+  title_ru: "ZeroFalse для SAST: локальные LLM, evidence-gate и триаж без галлюцинаций"
+  title_en: "ZeroFalse for SAST: local LLMs, evidence gating and triage without hallucinated verdicts"
   status: delivered
-  track: MAIN TRACK
-  note_ru: "Заявка подана 27.04.2026, принята CFP-комитетом 14.07.2026, приветственное письмо спикеру MAIN TRACK получено в августе."
-  materials: "Tumanov_ZeroFalse_OFFZONE_2026_eled4.pptx/pdf, текст речи, Q&A интервью"
+  track: AppSec.Zone
+  note_ru: "Заявка подана 27.04.2026, принята CFP-комитетом 14.07.2026."
+  urls:
+    program: https://offzone.moscow/program/zerofalse-for-sast-local-llms-evidence-gating-and-triage-without-hallucinated-verdicts/
+    program_en: https://offzone.moscow/eng/program/zerofalse-for-sast-local-llms-evidence-gating-and-triage-without-hallucinated-verdicts/
+    video: https://vkvideo.ru/video-172362100_456239390?list=ln-YbfwmNCdSIArcm950D
+    slides: https://offzone.moscow/upload/iblock/b9f/4dpabonhkb2shd94u1amvqpxpqk2vgkm/AppSec_Zone_Tumanov_%D0%9EFFZONE2026.pdf
+  materials: "Видео и презентация опубликованы на сайте конференции; локально — Tumanov_ZeroFalse_OFFZONE_2026_eled4.pptx/pdf, текст речи, Q&A интервью"
   source: G:\My Drive\AI_Research\conferences\2026-offzone
 
 - id: stf-talks-2026

@@ -7,7 +7,7 @@
 
 ## Профиль · Profile
 
-**Туманов Юрий Михайлович** (Эльария, Psycho Drake) — кандидат технических наук, lead-эксперт по безопасности приложений в «Ростелекоме». В информационной безопасности с 2001 года. Выпускник НИЯУ МИФИ.
+**Туманов Юрий Михайлович** (Эльария, Psycho Drake) — кандидат технических наук, ведущий эксперт по безопасной разработке и MLSecOps в ПАО «Ростелеком». Более 17 лет в информационной безопасности, application security и DevSecOps: построение процессов secure SDLC, внедрение SAST, DAST и SCA, управление уязвимостями, безопасность CI/CD и контейнерной инфраструктуры. Ранее развивал направление безопасной разработки в МТС, «СберТехе» и НТЦ ИТ РОСА. Преподавал дисциплины по информационной безопасности в НИЯУ МИФИ, выпускником которого является.
 
 Текущая исследовательская линия — **ZeroFalse**: доказательный (evidence-first) триаж срабатываний статического анализа с помощью локальных языковых моделей. Модель не получает права на вердикт, пока не сошлётся на проверяемые улики в коде; при недостатке улик система честно отвечает `Unknown` и возвращает находку человеку. Стек экспериментов: Qwen2.5-Coder-14B-AWQ на vLLM, одна потребительская видеокарта с 16 ГБ VRAM.
 
@@ -41,7 +41,9 @@
 
 **ёPRSTCON 2026** (май 2026, трек locB «Магистраль») — **«От мешка false positive до нормального вердикта: паяем ZeroFalse-inspired LLM-триаж на локальных моделях»**. Видео, слайды и транскрипт: https://www.yoprstcon.ru/articles_manual_locB_html/11-zerofalse-llm-triage.html
 
-**OFFZONE 2026** (20–21 августа 2026, Москва), MAIN TRACK — **«ZeroFalse для SAST: локальные LLM, evidence-gate и triage без галлюцинаций»**. Заявка подана 27 апреля, принята CFP-комитетом 14 июля. Материалы: презентация, текст выступления, интервью-Q&A.
+**OFFZONE 2026** (20–21 августа 2026, Москва), трек **AppSec.Zone** — **«ZeroFalse для SAST: локальные LLM, evidence-gate и триаж без галлюцинаций»** / *ZeroFalse for SAST: local LLMs, evidence gating and triage without hallucinated verdicts*. Заявка подана 27 апреля, принята CFP-комитетом 14 июля.
+Страница доклада: https://offzone.moscow/program/zerofalse-for-sast-local-llms-evidence-gating-and-triage-without-hallucinated-verdicts/
+Видео: https://vkvideo.ru/video-172362100_456239390 · Презентация: https://offzone.moscow/upload/iblock/b9f/4dpabonhkb2shd94u1amvqpxpqk2vgkm/AppSec_Zone_Tumanov_%D0%9EFFZONE2026.pdf
 
 **STF Talks** (2026) — участие подтверждено официальным письмом организаторов.
 
@@ -132,14 +134,14 @@
 | **CODE BLUE 2026** | *From Confident Guessing to Auditable Decisions: Local LLM Triage Inside a Closed Perimeter* | Отказ 2 сентября 2026 (подано 26 июля) |
 | **No Hat 2026** | *From a Bag of False Positives to a Verdict: Local-LLM SAST Triage on a Single Consumer GPU* (#46) | Отказ 5 августа 2026 (подано 7 июня) |
 | **Pass the SALT 2026** | *Evidence, Not Guesswork: Precision-First SAST Triage with Self-Hosted Open LLMs* | Отказ 27 апреля 2026 (подано 31 марта) |
+| **Standoff Talks**, 18–19.06.2026 | ZeroFalse / LLM-триаж SAST | Подано, доклад не отобран |
 
-### Перенесено и в работе
+### Перенесено и отложено
 
 | Площадка · Venue | Работа · Work | Состояние |
 |---|---|---|
 | **Positive Hack Days Fest** | «ZeroFalse: доказательный LLM-триаж SAST в CI/CD (precision-first без галлюцинаций)» | Заявка подана 3 марта 2026; на следующий день организаторы объявили о переносе фестиваля на 2027 год. Взамен предложены ёPRSTCON и Standoff Talks |
-| **Standoff Talks**, 18–19.06.2026 | ZeroFalse / LLM-триаж SAST | Пакет CFP подготовлен; подтверждения подачи в переписке нет |
-| **РИ-2026**, СПб, 28–30.10.2026 | «Метод отбора классов дефектов для контролируемой автоматизации триажа SAST-срабатываний локальной языковой моделью» | Тезисы готовы (срок подачи 31 июля); подтверждения подачи в переписке нет |
+| **РИ-2026**, СПб, 28–30.10.2026 | «Метод отбора классов дефектов для контролируемой автоматизации триажа SAST-срабатываний локальной языковой моделью» | Тезисы готовы, заявка не подавалась — материал свободен для другой площадки |
 
 ## Исследовательские линии · Research lines
 
@@ -154,6 +156,8 @@
 
 - LinkedIn — https://www.linkedin.com/in/yury-tumanov-bb55b531/
 - ёPRSTCON 2026, доклад — https://www.yoprstcon.ru/articles_manual_locB_html/11-zerofalse-llm-triage.html
+- OFFZONE 2026, страница доклада — https://offzone.moscow/program/zerofalse-for-sast-local-llms-evidence-gating-and-triage-without-hallucinated-verdicts/
+- OFFZONE 2026, видео — https://vkvideo.ru/video-172362100_456239390
 - Positive Hack Days 2024, запись — https://vk.com/video-28022322_456240844
 - OSday 2022, запись (с 7:26:14) — https://youtu.be/IZNjxJoBg-c?t=26776
 - Защита кандидатской, 2012 — https://vk.com/video196891_167335441
