@@ -8,7 +8,7 @@
   paper_id: "#1571283070 (EDAS)"
   status: accepted
   decision_date: "2026-09-04"
-  review: "Две рецензии, обе Likely Accept (топ 10–30 % работ): relevance 4/5, technical contribution 4/5. Замечания: заполнить пустые таблицы результатов, формализовать алгоритм evidence-gate, указать модель/квантование/GPU, добавить сравнение с ZeroFalse и IRIS, обсудить цену ложного Unknown."
+  review: "Две рецензии, обе Likely Accept (топ 10–30 % работ): relevance 4/5, technical contribution 4/5. Полные тексты рецензий — в письме о принятии от 04.09.2026."
 
 - id: iccc-2026
   venue: "IEEE ICCC 2026 — 12th Int. Conference on Computer and Communications, Chengdu, 11–14.12.2026"
