@@ -1,0 +1,87 @@
+# Публикации / Publications. status: published | in_press | submitted | pitched | draft | to_verify
+- id: vkb-2026-4
+  year: 2026
+  status: in_press
+  venue_ru: "«Вопросы кибербезопасности», № 4, 2026 (ВАК, РИНЦ)"
+  venue_en: "Voprosy kiberbezopasnosti (Cybersecurity Issues), No. 4, 2026"
+  title_ru: "Искусственный интеллект в арсенале нарушителя: анализ новых вызовов информационной безопасности"
+  authors: [Коркин И. Ю., Туманов Ю. М., Докучаева О. Н.]
+  doi: "10.21681/2311-3456-2026-4"
+  note_ru: "Пройдены антиплагиат, экспертное заключение о возможности открытой публикации и оплата; страницы в DOI на момент вёрстки не проставлены."
+
+- id: eforensics-13-04
+  year: 2026
+  status: published
+  venue_ru: "eForensics Magazine, Vol. 13 No. 04"
+  venue_en: "eForensics Magazine, Vol. 13 No. 04"
+  title_en: "Weaponizing Intelligence: AI in the Hacker's Arsenal"
+  authors: [Igor Korkin, Yuriy Tumanov, Oksana Dokuchaeva]
+  pages: "26–36"
+  note_en: "Attack surfaces of LLMs: context poisoning and corporate data exfiltration via active browser sessions."
+
+- id: habr-zerofalse
+  year: 2026
+  status: to_verify
+  venue_ru: "Хабр"
+  title_ru: "ZeroFalse: доказательный LLM-триаж SAST (лонгрид)"
+  note_ru: "Готов полный пакет публикации: текст, иллюстрации, проверка метрик и ссылок. Факт выхода на Хабре — уточнить."
+
+- id: habr-zvezda
+  year: 2026
+  status: draft
+  venue_ru: "Хабр"
+  title_ru: "Звезда в машинном тумане"
+  authors: [Коркин И. Ю., Туманов Ю. М., Докучаева О. Н.]
+  note_ru: "Финальная редакция от 27.07.2026, иллюстрации подготовлены."
+
+- id: xakep-tesnoe-okno
+  year: 2026
+  status: pitched
+  venue_ru: "«Хакер» (рубрика «Кодинг»)"
+  title_ru: "Тесное окно: промпт-инжиниринг для локального триажа уязвимостей на одной видеокарте"
+  note_ru: "Питч отправлен главреду; готовы карточка статьи, сжатая и верификационная редакции текста."
+
+- id: bit-2011-4
+  year: 2011
+  status: published
+  venue_ru: "«Безопасность информационных технологий» (БИТ), НИЯУ МИФИ, № 4, 2011, с. 103–105"
+  title_ru: "(название уточнить по скану)"
+  note_ru: "Сохранены постраничные сканы bit_4_2011_103…105."
+
+- id: bit-2010-2
+  year: 2010
+  status: published
+  venue_ru: "«Безопасность информационных технологий» (БИТ), НИЯУ МИФИ, № 2, 2010, с. 83"
+  title_ru: "Поиск уязвимостей по бинарному коду с помощью проверки выполнимости ограничений"
+  title_en: "Vulnerability detection in binary code based on constraint satisfiability checking"
+  authors: [Филоненко А. В., Исаев И. К., Сидоров Д. В., Туманов Ю. М.]
+  note_ru: "Тестирование на основе моделей, инструмент Avalanche (Valgrind + STP)."
+
+- id: bit-2010-1-behavior
+  year: 2010
+  status: published
+  venue_ru: "«Безопасность информационных технологий» (БИТ), НИЯУ МИФИ, № 1, 2010"
+  title_ru: "Использование поведенческого анализа с применением поведенческих сигнатур для выявления вредоносного кода на примере JavaScript-сценариев"
+  authors: [Туманов Ю. М., Гаврилюк С. В.]
+  url: https://bit.mephi.ru/index.php/bit/article/view/791
+
+- id: bit-2010-1-grid
+  year: 2010
+  status: published
+  venue_ru: "«Безопасность информационных технологий» (БИТ), НИЯУ МИФИ, № 1, 2010"
+  title_ru: "Разработка метода защиты вычислительных Грид-сетей от намеренного искажения результата вычислений"
+  authors: [Гаврилюк С. В., Туманов Ю. М.]
+
+- id: bit-2009-4
+  year: 2009
+  status: published
+  venue_ru: "«Безопасность информационных технологий» (БИТ), НИЯУ МИФИ, № 4, 2009, с. 63"
+  title_ru: "Обнаружение вредоносных сценариев JavaScript на основе поведенческих сигнатур"
+  authors: [Туманов Ю. М.]
+
+- id: kurchatov-2009-proceedings
+  year: 2009
+  status: published
+  venue_ru: "Сборник Курчатовской молодёжной научной школы, 2009"
+  title_ru: "Использование поведенческого анализа для выявления вредоносного кода на примере JavaScript-сценариев"
+  authors: [Туманов Ю. М.]

@@ -1,0 +1,50 @@
+# Заявки и подачи 2026 / CFP pipeline 2026. status: under_revision | submitted | prepared
+- id: iccc-2026
+  venue: "IEEE ICCC 2026 — 12th Int. Conference on Computer and Communications, Chengdu, 11–14.12.2026"
+  paper_id: IC012
+  title_en: "Evidence-Anchored LLM Triage for Static Application Security Testing in CI/CD Pipelines"
+  status: under_revision
+  review: "39/60; замечания по ретроспективности выборки и сохранению текста улик — подготовлены ревизия статьи и Response to Reviewers"
+  results: "75 727 уникальных находок; precision 98,5 %, recall 74,6 %, F1 0,85 для класса Confirmed, Unknown 9,6 %"
+
+- id: code-blue-2026
+  venue: "CODE BLUE 2026"
+  status: prepared
+  packages:
+    - title_en: "The Model Is Not the Verdict: Evidence-Anchored Local LLM Triage for SAST"
+      results: "746 находок, размеченных экспертами независимо; полное трёхклассовое совпадение 47,5 %; 80,8 % на 276 содержательных решениях; 93,8 % (150/160) на отобранных пяти классах CWE"
+    - title_en: "Context Windows Lie: Engineering LLM Security Triage Under Real Memory and Evidence Constraints"
+      results: "детерминированная дистилляция улик: 7 607 → 3 413 входных токенов при сохранении совпадения 0,92"
+
+- id: ccci-2026
+  venue: "CCCI 2026"
+  title_en: "Evidence-Gated SAST Triage with Small Local LLMs: A ZeroFalse-Inspired Precision-First Pipeline"
+  status: submitted
+
+- id: pass-the-salt-2026
+  venue: "Pass the SALT 2026 (short talk, 20 мин)"
+  title_en: "Evidence, Not Guesswork: Precision-First SAST Triage with Self-Hosted Open LLMs"
+  status: submitted
+
+- id: ri-2026
+  venue: "XX Санкт-Петербургская международная конференция «Региональная информатика» (РИ-2026), 28–30.10.2026"
+  title_ru: "Метод отбора классов дефектов для контролируемой автоматизации триажа SAST-срабатываний локальной языковой моделью"
+  status: submitted
+  results: "правило допуска D(c)=1 при n(c)≥10, a(c)≥0,75, m(c)≥8; допуск прошли CWE-256, CWE-321, CWE-330, CWE-506, CWE-798"
+
+- id: standoff-talks-2026
+  venue: "Standoff Talks 2026"
+  status: submitted
+
+- id: zeronights-2026
+  venue: "ZeroNights 2026"
+  status: submitted
+
+- id: phdays-2026
+  venue: "Positive Hack Days 2026 (Development Security, extended talk 50 мин)"
+  title_ru: "ZeroFalse: доказательный LLM-триаж SAST в CI/CD (precision-first без галлюцинаций)"
+  status: submitted
+
+- id: nohat-2026
+  venue: "No Hat 2026"
+  status: prepared
