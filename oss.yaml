@@ -1,0 +1,55 @@
+# Вклад в открытый код. Обновляется скриптом tools/update-oss-stats.ps1 раз в неделю.
+# Источник: публичный поиск GitHub по author:Eljees, исключая собственные репозитории (-user:Eljees).
+author: Eljees
+updated: "2026-09-08"
+counts:
+  merged: 66          # принятых pull request в чужие проекты
+  open: 112           # открытых, ожидают решения мейнтейнеров
+  closed_unmerged: 23 # закрытых без принятия
+  total: 201
+  projects_with_merged: 40   # проектов, куда приняли хотя бы один PR
+  repos_touched: 101         # всего затронутых репозиториев
+query:
+  merged: "type:pr author:Eljees is:merged -user:Eljees"
+  open: "type:pr author:Eljees is:open -user:Eljees"
+projects_with_merged:
+  - aboutcode-org/scancode-toolkit
+  - anchore/grype
+  - anchore/grype-db
+  - anchore/syft
+  - Bachmann1234/diff_cover
+  - codespell-project/codespell
+  - CycloneDX/cyclonedx-gomod
+  - dependency-check/DependencyCheck
+  - detekt/detekt
+  - editorconfig-checker/editorconfig-checker
+  - gcovr/gcovr
+  - hadolint/language-docker
+  - igorshubovych/markdownlint-cli
+  - interlynk-io/sbomasm
+  - interlynk-io/sbomqs
+  - kubescape/kubescape
+  - mgechev/revive
+  - MobSF/Mobile-Security-Framework-MobSF
+  - open-policy-agent/conftest
+  - OpenSCAP/openscap
+  - ossf/cve-bin-tool
+  - plasma-umass/slipcover
+  - pmd/pmd
+  - prospector-dev/prospector
+  - prospector-dev/requirements-detector
+  - PyCQA/docformatter
+  - PyCQA/flake8-bugbear
+  - PyCQA/isort
+  - pylint-dev/astroid
+  - pylint-dev/pylint
+  - rubocop/rubocop
+  - scoverage/scalac-scoverage-plugin
+  - SimonKagstrom/kcov
+  - spotbugs/spotbugs
+  - sqlfluff/sqlfluff
+  - taiki-e/cargo-llvm-cov
+  - terryyin/lizard
+  - uber/NullAway
+  - vale-cli/vale
+  - vladopajic/go-test-coverage
