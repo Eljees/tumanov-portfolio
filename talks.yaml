@@ -16,9 +16,11 @@
   date: "2026-08-20/2026-08-21"
   venue_ru: OFFZONE 2026, Москва
   venue_en: OFFZONE 2026, Moscow
-  title_ru: "ZeroFalse: доказательный LLM-триаж SAST"
-  title_en: "ZeroFalse: evidence-anchored LLM triage for SAST"
+  title_ru: "ZeroFalse для SAST: локальные LLM, evidence-gate и triage без галлюцинаций"
+  title_en: "ZeroFalse for SAST: local LLMs, evidence gate and triage without hallucinations"
   status: delivered
+  track: MAIN TRACK
+  note_ru: "Заявка подана 27.04.2026, принята CFP-комитетом 14.07.2026, приветственное письмо спикеру MAIN TRACK получено в августе."
   materials: "Tumanov_ZeroFalse_OFFZONE_2026_eled4.pptx/pdf, текст речи, Q&A интервью"
   source: G:\My Drive\AI_Research\conferences\2026-offzone
 
@@ -61,11 +63,14 @@
   title_en: "Methodic of destructive properties software verification for cloud computations"
   note_ru: "Abstract и synopsis по методике верификации ПО на деструктивные свойства для облачных вычислений; сохранён диплом Microsoft."
 
-- id: miemp-2011
+- id: svoe-delo-2011
   year: 2011
-  venue_ru: МИЭМП
-  status: to_verify
-  note_ru: "Упоминания в новостях МИЭМП (03.06.2011); формат участия уточнить."
+  date: "2011-05-18"
+  venue_ru: Финал конкурса «Своё дело», МИЭМП, Москва
+  venue_en: "\"Svoyo Delo\" startup competition final, MIEMP, Moscow"
+  status: delivered
+  format_ru: защита проекта (бизнес-план и презентация), заявка от НИЯУ МИФИ
+  note_ru: "Не доклад на конференции, а финал конкурса предпринимательских проектов; освещался в новостях МИЭМП."
   urls: ["http://www.miemp.ru/novosti/svoe-delo/", "http://old.miemp.ru/news/03.06.11/1.html"]
 
 - id: mephi-session-2011
@@ -107,4 +112,4 @@
   year: null
   venue_ru: Сколково
   status: to_verify
-  note_ru: "Сохранена презентация «Туманов_Сколково.ppt»; год и площадка требуют уточнения."
+  note_ru: "Сохранена презентация «Туманов_Сколково.ppt». В почте за 2012 год — Открытый университет Сколково с Microsoft («ЗаPush свой проект», октябрь 2012), вебинары фонда и рассылки Зворыкинского проекта; к какому именно событию относится презентация, не установлено."
