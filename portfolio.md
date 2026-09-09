@@ -38,7 +38,7 @@
 ## Открытый код · Open source
 
 <!-- OSS-STATS -->
-**66** принятых pull request в **40** сторонних проектов, **112** открытых, всего затронут **101** репозиторий. Данные на **09.09.2026**.
+**66** принятых pull request в **40** сторонних проектов, **112** открытых, всего затронут **102** репозиторий. Данные на **09.09.2026**.
 <!-- /OSS-STATS -->
 
 Патчи в инструменты статического анализа, SBOM-утилиты и сканеры безопасности: pylint, astroid, rubocop, PMD, SpotBugs, detekt, revive, NullAway, sqlfluff, isort, docformatter, flake8-bugbear, prospector, codespell, syft, grype, grype-db, scancode-toolkit, cve-bin-tool, DependencyCheck, kubescape, MobSF, OpenSCAP, conftest, sbomqs, sbomasm, cyclonedx-gomod, gcovr, kcov, slipcover, cargo-llvm-cov, go-test-coverage, diff_cover, scalac-scoverage-plugin, lizard, vale, markdownlint-cli, editorconfig-checker, language-docker, requirements-detector.

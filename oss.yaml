@@ -5,10 +5,10 @@ updated: "2026-09-09"
 counts:
   merged: 66          # принятых pull request в чужие проекты
   open: 112           # открытых, ожидают решения мейнтейнеров
-  closed_unmerged: 23 # закрытых без принятия
-  total: 201
+  closed_unmerged: 24 # закрытых без принятия
+  total: 202
   projects_with_merged: 40   # проектов, куда приняли хотя бы один PR
-  repos_touched: 101         # всего затронутых репозиториев
+  repos_touched: 102         # всего затронутых репозиториев
 query:
   merged: "type:pr author:Eljees is:merged -user:Eljees"
   open: "type:pr author:Eljees is:open -user:Eljees"
