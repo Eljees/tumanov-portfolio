@@ -17,8 +17,10 @@
   venue_en: "eForensics Magazine, Vol. 13 No. 04"
   title_en: "Weaponizing Intelligence: AI in the Hacker's Arsenal"
   authors: [Igor Korkin, Yuriy Tumanov, Oksana Dokuchaeva]
-  pages: "26–36"
-  note_en: "Attack surfaces of LLMs: context poisoning and corporate data exfiltration via active browser sessions."
+  pages: "26–39"
+  issue_theme_en: "AI in Forensics: The Age of Autonomy"
+  note_ru: "Как генеративный ИИ меняет экономику киберпреступности и какую поверхность атаки создают LLM-приложения: prompt injection, отравление данных для retrieval, раскрытие чувствительной информации, небезопасная обработка вывода, избыточные полномочия агента и злоупотребление доверенным ИИ-ассистентом через скомпрометированную сессию пользователя. Риски переведены в оборонительный процесс: авторизованное тестирование, сбор доказательств, инженерные исправления; опора на MITRE ATLAS и OWASP LLM Top 10."
+  keywords_en: [AI security, LLM security, AI agents, trusted AI assistant abuse, AI-mediated data exfiltration, prompt injection, data poisoning, deepfakes, AppSec, threat modeling, defensive testing, MITRE ATLAS, OWASP LLM Top 10]
 
 - id: habr-zerofalse
   year: 2026
