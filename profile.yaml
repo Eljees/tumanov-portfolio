@@ -13,11 +13,13 @@ focus_ru:
   - Снижение false positive в SAST/SCA/secret scanning без потери реальных находок
   - DevSecOps-автоматизация и контроль качества правил анализаторов
   - Безопасность ИИ-агентов в закрытом контуре
+  - Безопасность Kubernetes и контейнерной инфраструктуры
 focus_en:
   - Evidence-anchored SAST triage with local LLMs (ZeroFalse line)
   - False-positive reduction in SAST/SCA/secret scanning without losing true findings
   - DevSecOps automation and analyzer rule-quality control
   - Security controls for AI agents inside restricted enterprise perimeters
+  - Kubernetes and container infrastructure security
 links:
   linkedin: https://www.linkedin.com/in/yury-tumanov-bb55b531/
 stack:
