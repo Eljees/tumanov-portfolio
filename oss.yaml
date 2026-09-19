@@ -1,14 +1,14 @@
 # Вклад в открытый код. Обновляется скриптом tools/update-oss-stats.ps1 раз в неделю.
 # Источник: публичный поиск GitHub по author:Eljees, исключая собственные репозитории (-user:Eljees).
 author: Eljees
-updated: "2026-09-18"
+updated: "2026-09-19"
 counts:
-  merged: 73          # принятых pull request в чужие проекты
-  open: 108           # открытых, ожидают решения мейнтейнеров
-  closed_unmerged: 26 # закрытых без принятия
-  total: 207
-  projects_with_merged: 45   # проектов, куда приняли хотя бы один PR
-  repos_touched: 106         # всего затронутых репозиториев
+  merged: 74          # принятых pull request в чужие проекты
+  open: 116           # открытых, ожидают решения мейнтейнеров
+  closed_unmerged: 27 # закрытых без принятия
+  total: 217
+  projects_with_merged: 46   # проектов, куда приняли хотя бы один PR
+  repos_touched: 114         # всего затронутых репозиториев
 query:
   merged: "type:pr author:Eljees is:merged -user:Eljees"
   open: "type:pr author:Eljees is:open -user:Eljees"
@@ -51,6 +51,7 @@ projects_with_merged:
   - SimonKagstrom/kcov
   - spotbugs/spotbugs
   - sqlfluff/sqlfluff
+  - stackrox/kube-linter
   - taiki-e/cargo-llvm-cov
   - terryyin/lizard
   - uber/NullAway
