@@ -22,6 +22,9 @@ focus_en:
   - Kubernetes and container infrastructure security
 links:
   linkedin: https://www.linkedin.com/in/yury-tumanov-bb55b531/
+  scholar: https://scholar.google.com/citations?user=iH0LwcAAAAAJ
+  site: https://eljees.github.io
+  github: https://github.com/Eljees
 stack:
   model: Qwen2.5-Coder-14B-AWQ
   serving: vLLM
