@@ -1,10 +1,18 @@
 # tumanov-portfolio
 
-Приватный реестр публикаций, выступлений и поданных заявок Юрия Туманова (Эльария / Psycho Drake).
-Private registry of publications, talks and conference submissions.
+Реестр публикаций, выступлений и поданных заявок Юрия Туманова (Эльария / Psycho Drake).
+Registry of publications, talks and conference submissions.
 
 Репозиторий содержит **только метаданные и тексты** — исходные файлы (PDF, PPTX, DOCX, сканы) остаются
 в Google Drive: `G:\My Drive\AI_Research\`.
+
+
+## Где ещё
+
+- Сайт-портфолио — **https://eljees.github.io** (исходник: [eljees.github.io](https://github.com/Eljees/eljees.github.io))
+- Google Scholar — **https://scholar.google.com/citations?user=iH0LwcAAAAAJ**
+- LinkedIn — https://www.linkedin.com/in/yury-tumanov-bb55b531/
+- Открытый код — https://github.com/search?q=is%3Apr+author%3AEljees+-user%3AEljees&type=pullrequests
 
 ## Что где
 
