@@ -39,7 +39,7 @@
 ## Открытый код · Open source
 
 <!-- OSS-STATS -->
-**73** принятых pull request в **45** сторонних проектов, **108** открытых, всего затронут **106** репозиторий. Данные на **18.09.2026**.
+**66** принятых pull request в **40** сторонних проектов, **112** открытых, всего затронут **102** репозиторий. Данные на **09.09.2026**.
 <!-- /OSS-STATS -->
 
 Патчи в инструменты статического анализа, SBOM-утилиты и сканеры безопасности: pylint, astroid, rubocop, PMD, SpotBugs, detekt, revive, NullAway, sqlfluff, isort, docformatter, flake8-bugbear, prospector, codespell, syft, grype, grype-db, scancode-toolkit, cve-bin-tool, DependencyCheck, kubescape, MobSF, OpenSCAP, conftest, sbomqs, sbomasm, cyclonedx-gomod, gcovr, kcov, slipcover, cargo-llvm-cov, go-test-coverage, diff_cover, scalac-scoverage-plugin, lizard, vale, markdownlint-cli, editorconfig-checker, language-docker, requirements-detector.
@@ -50,11 +50,14 @@
 
 ### 2026
 
+**ISCRA Talks 2026** (19 сентября 2026, Конгресс-холл МГТУ им. Н. Э. Баумана, Москва), зал «Квант», 16:45–17:30 — **«Не все дефекты одинаковы: как структура SAST-находки ломает LLM-триаж»** / *Not all defects are alike: how the structure of a SAST finding breaks LLM triage*. Срабатывания SAST делятся на два типа по форме доказательства: **property** — нарушение факта в одной точке кода (например, пароль в исходнике), **trace** — путь данных от источника ко входу опасной операции. Эксперимент на 38 классах дефектов: один универсальный вопрос «покажи путь атаки» похоронил 140 из 363 реальных уязвимостей — «похоронил» значит закрыл реальную уязвимость как ложное срабатывание. В докладе — роутер (маршрутизатор) по структуре доказательства, семь подтипов property-сработок P0–P6, evidence-gate (правило «перечисли факты до вердикта») и экзамен против 2 546 решений людей.
+Программа конференции: https://iscra-talks.ru/#tracks · Презентация: https://eljees.github.io/slides/Tumanov_ZeroFalse_ISCRA_2026.pdf
+
 **ёPRSTCON 2026** (май 2026, трек locB «Магистраль») — **«От мешка false positive до нормального вердикта: паяем ZeroFalse-inspired LLM-триаж на локальных моделях»**. Видео, слайды и транскрипт: https://www.yoprstcon.ru/articles_manual_locB_html/11-zerofalse-llm-triage.html
 
 **OFFZONE 2026** (20–21 августа 2026, Москва), трек **AppSec.Zone** — **«ZeroFalse для SAST: локальные LLM, evidence-gate и триаж без галлюцинаций»** / *ZeroFalse for SAST: local LLMs, evidence gating and triage without hallucinated verdicts*. Заявка подана 27 апреля, принята CFP-комитетом 14 июля.
 Страница доклада: https://offzone.moscow/program/zerofalse-for-sast-local-llms-evidence-gating-and-triage-without-hallucinated-verdicts/
-Видео: https://vkvideo.ru/video-172362100_456239390 · Презентация: https://offzone.moscow/upload/iblock/b9f/4dpabonhkb2shd94u1amvqpxpqk2vgkm/AppSec_Zone_Tumanov_%D0%9EFFZONE2026.pdf
+Видео: https://vkvideo.ru/video-172362100_456239390 · Презентация: https://eljees.github.io/slides/Tumanov_ZeroFalse_OFFZONE_2026.pdf · копия на сайте конференции: https://offzone.moscow/upload/iblock/b9f/4dpabonhkb2shd94u1amvqpxpqk2vgkm/AppSec_Zone_Tumanov_%D0%9EFFZONE2026.pdf
 
 **STF Talks** (2026) — участие подтверждено официальным письмом организаторов.
 
@@ -153,7 +156,7 @@
 | Площадка · Venue | Работа · Work | Решение |
 |---|---|---|
 | **CCCI 2026** | *Evidence-Gated SAST Triage with Small Local LLMs: A ZeroFalse-Inspired Precision-First Pipeline* (EDAS #1571283070) | **Принято 4 сентября 2026.** Две рецензии, обе Likely Accept — верхние 10–30 % работ |
-| **OFFZONE 2026**, MAIN TRACK | «ZeroFalse для SAST: локальные LLM, evidence-gate и triage без галлюцинаций» | **Принято 14 июля 2026**, доклад состоялся 20–21 августа |
+| **OFFZONE 2026**, трек AppSec.Zone | «ZeroFalse для SAST: локальные LLM, evidence-gate и triage без галлюцинаций» | **Принято 14 июля 2026**, доклад состоялся 20–21 августа |
 
 ### На рассмотрении
 
@@ -194,6 +197,9 @@
 - ёPRSTCON 2026, доклад — https://www.yoprstcon.ru/articles_manual_locB_html/11-zerofalse-llm-triage.html
 - OFFZONE 2026, страница доклада — https://offzone.moscow/program/zerofalse-for-sast-local-llms-evidence-gating-and-triage-without-hallucinated-verdicts/
 - OFFZONE 2026, видео — https://vkvideo.ru/video-172362100_456239390
+- OFFZONE 2026, презентация — https://eljees.github.io/slides/Tumanov_ZeroFalse_OFFZONE_2026.pdf
+- ISCRA Talks 2026, программа — https://iscra-talks.ru/#tracks
+- ISCRA Talks 2026, презентация — https://eljees.github.io/slides/Tumanov_ZeroFalse_ISCRA_2026.pdf
 - Positive Hack Days 2024, запись — https://vk.com/video-28022322_456240844
 - OSday 2022, запись (с 7:26:14) — https://youtu.be/IZNjxJoBg-c?t=26776
 - Защита кандидатской, 2012 — https://vk.com/video196891_167335441

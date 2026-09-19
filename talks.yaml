@@ -1,4 +1,20 @@
 # Выступления / Talks. status: delivered | confirmed | participation | to_verify
+- id: iscra-talks-2026
+  year: 2026
+  date: "2026-09-19"
+  venue_ru: ISCRA Talks 2026, Конгресс-холл МГТУ им. Н. Э. Баумана, Москва
+  venue_en: ISCRA Talks 2026, Bauman Moscow State Technical University congress hall, Moscow
+  title_ru: "Не все дефекты одинаковы: как структура SAST-находки ломает LLM-триаж"
+  title_en: "Not all defects are alike: how the structure of a SAST finding breaks LLM triage"
+  status: delivered
+  track: "зал «Квант», 16:45–17:30"
+  urls:
+    program: https://iscra-talks.ru/#tracks
+    slides: https://eljees.github.io/slides/Tumanov_ZeroFalse_ISCRA_2026.pdf
+  materials: "Презентация (29 слайдов) опубликована в репозитории сайта; локально — Tumanov_ZeroFalse_ISCRA_2026_v1.5.pptx и текст речи SPEECH_ISCRA_v1.5.md"
+  note_ru: "Property- и trace-сработки доказываются по-разному: один универсальный вопрос «покажи путь атаки» похоронил 140 из 363 реальных уязвимостей на 38 классах дефектов. Роутер по структуре доказательства, подтипы P0–P6, evidence-gate, экзамен против 2 546 решений людей."
+  source: G:\My Drive\AI_Research\conferences\2026-iscra
+
 - id: yoprstcon-2026
   year: 2026
   date: "2026-05"
@@ -25,7 +41,8 @@
     program: https://offzone.moscow/program/zerofalse-for-sast-local-llms-evidence-gating-and-triage-without-hallucinated-verdicts/
     program_en: https://offzone.moscow/eng/program/zerofalse-for-sast-local-llms-evidence-gating-and-triage-without-hallucinated-verdicts/
     video: https://vkvideo.ru/video-172362100_456239390?list=ln-YbfwmNCdSIArcm950D
-    slides: https://offzone.moscow/upload/iblock/b9f/4dpabonhkb2shd94u1amvqpxpqk2vgkm/AppSec_Zone_Tumanov_%D0%9EFFZONE2026.pdf
+    slides: https://eljees.github.io/slides/Tumanov_ZeroFalse_OFFZONE_2026.pdf
+    slides_conference: https://offzone.moscow/upload/iblock/b9f/4dpabonhkb2shd94u1amvqpxpqk2vgkm/AppSec_Zone_Tumanov_%D0%9EFFZONE2026.pdf
   materials: "Видео и презентация опубликованы на сайте конференции; локально — Tumanov_ZeroFalse_OFFZONE_2026_eled4.pptx/pdf, текст речи, Q&A интервью"
   source: G:\My Drive\AI_Research\conferences\2026-offzone
 
