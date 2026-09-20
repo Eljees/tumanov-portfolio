@@ -23,6 +23,7 @@ Registry of publications, talks and conference submissions.
 | [`talks.yaml`](talks.yaml) | Выступления, 2009 → 2026 |
 | [`publications.yaml`](publications.yaml) | Статьи в журналах и медиа |
 | [`submissions.yaml`](submissions.yaml) | Заявки CFP и статьи на рецензии, 2026 |
+| [`press.yaml`](press.yaml) | Публикации других авторов о работе |
 | [`oss.yaml`](oss.yaml) | Вклад в открытый код: счётчики PR и список проектов, обновляется еженедельно |
 
 ## Словарь статусов

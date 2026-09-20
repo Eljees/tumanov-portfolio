@@ -159,6 +159,13 @@
 
 **«РусКрипто'2009»** — «Разработка программы обнаружения вредоносных сценариев JavaScript на основе поведенческих сигнатур»: http://www.ruscrypto.org/sources/conference/rc2009/
 
+## Пресса о работе · Press coverage
+
+**Tproger, 18 сентября 2026** — «AI пишет, AI проверяет: почему уязвимости появляются пачками и как понять, какие из них настоящие», автор Ислам Виндижев. Разбор доклада на OFFZONE 2026: поток сработок SAST, почему уверенному ответу модели верить нельзя, evidence-gate как требование перечислить проверяемые улики до вердикта, принцип «автоматизируем только обратимые решения».
+https://tproger.ru/articles/ai-piwet-ai-proveryaet-pochemu-uyazvimosti-poyavlyayutsya-pachkami-i-k
+
+---
+
 ## Заявки и подачи 2026 · Submission pipeline 2026
 
 Статусы сверены с перепиской по состоянию на 8 сентября 2026 года.
@@ -212,6 +219,7 @@
 - OFFZONE 2026, страница доклада — https://offzone.moscow/program/zerofalse-for-sast-local-llms-evidence-gating-and-triage-without-hallucinated-verdicts/
 - OFFZONE 2026, видео — https://vkvideo.ru/video-172362100_456239390
 - OFFZONE 2026, презентация — https://eljees.github.io/slides/Tumanov_ZeroFalse_OFFZONE_2026.pdf
+- Tproger о докладе на OFFZONE 2026 — https://tproger.ru/articles/ai-piwet-ai-proveryaet-pochemu-uyazvimosti-poyavlyayutsya-pachkami-i-k
 - ISCRA Talks 2026, программа — https://iscra-talks.ru/#tracks
 - ISCRA Talks 2026, презентация — https://eljees.github.io/slides/Tumanov_ZeroFalse_ISCRA_2026.pdf
 - Positive Hack Days 2024, запись — https://vk.com/video-28022322_456240844
