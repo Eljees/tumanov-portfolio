@@ -3,12 +3,12 @@
 author: Eljees
 updated: "2026-09-22"
 counts:
-  merged: 79          # принятых pull request в чужие проекты
+  merged: 81          # принятых pull request в чужие проекты
   open: 137           # открытых, ожидают решения мейнтейнеров
   closed_unmerged: 27 # закрытых без принятия
-  total: 243
-  projects_with_merged: 49   # проектов, куда приняли хотя бы один PR
-  repos_touched: 124         # всего затронутых репозиториев
+  total: 245
+  projects_with_merged: 50   # проектов, куда приняли хотя бы один PR
+  repos_touched: 125         # всего затронутых репозиториев
 query:
   merged: "type:pr author:Eljees is:merged -user:Eljees"
   open: "type:pr author:Eljees is:open -user:Eljees"
@@ -19,6 +19,7 @@ projects_with_merged:
   - anchore/syft
   - Bachmann1234/diff_cover
   - codespell-project/codespell
+  - coverlet-coverage/coverlet
   - CycloneDX/cyclonedx-gomod
   - dependency-check/DependencyCheck
   - detekt/detekt
