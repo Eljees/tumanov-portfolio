@@ -1,7 +1,7 @@
 # Юрий Туманов — публикации и выступления
 ## Yuriy Tumanov — Publications and Talks
 
-Актуально на 8 сентября 2026 года · As of 8 September 2026
+Актуально на 24.09.2026 · As of 2026-09-24
 
 ---
 
@@ -39,7 +39,7 @@
 ## Открытый код · Open source
 
 <!-- OSS-STATS -->
-**81** принятых pull request в **50** сторонних проектов, **137** открытых, всего затронут **125** репозиторий. Данные на **22.09.2026**.
+**84** принятых pull request в **52** сторонних проектов, **143** открытых, всего затронут **126** репозиторий. Данные на **24.09.2026**.
 <!-- /OSS-STATS -->
 
 Патчи в инструменты статического анализа, SBOM-утилиты и сканеры безопасности: pylint, astroid, rubocop, PMD, SpotBugs, detekt, revive, NullAway, sqlfluff, isort, docformatter, flake8-bugbear, prospector, codespell, syft, grype, grype-db, scancode-toolkit, cve-bin-tool, DependencyCheck, kubescape, MobSF, OpenSCAP, conftest, sbomqs, sbomasm, cyclonedx-gomod, gcovr, kcov, slipcover, cargo-llvm-cov, go-test-coverage, diff_cover, scalac-scoverage-plugin, lizard, vale, markdownlint-cli, editorconfig-checker, language-docker, requirements-detector.

@@ -1,14 +1,14 @@
 # Вклад в открытый код. Обновляется скриптом tools/update-oss-stats.ps1 раз в неделю.
 # Источник: публичный поиск GitHub по author:Eljees, исключая собственные репозитории (-user:Eljees).
 author: Eljees
-updated: "2026-09-22"
+updated: "2026-09-24"
 counts:
-  merged: 81          # принятых pull request в чужие проекты
-  open: 137           # открытых, ожидают решения мейнтейнеров
-  closed_unmerged: 27 # закрытых без принятия
-  total: 245
-  projects_with_merged: 50   # проектов, куда приняли хотя бы один PR
-  repos_touched: 125         # всего затронутых репозиториев
+  merged: 84          # принятых pull request в чужие проекты
+  open: 143           # открытых, ожидают решения мейнтейнеров
+  closed_unmerged: 28 # закрытых без принятия
+  total: 255
+  projects_with_merged: 52   # проектов, куда приняли хотя бы один PR
+  repos_touched: 126         # всего затронутых репозиториев
 query:
   merged: "type:pr author:Eljees is:merged -user:Eljees"
   open: "type:pr author:Eljees is:open -user:Eljees"
@@ -21,6 +21,7 @@ projects_with_merged:
   - codespell-project/codespell
   - coverlet-coverage/coverlet
   - CycloneDX/cyclonedx-gomod
+  - DefectDojo/django-DefectDojo
   - dependency-check/DependencyCheck
   - detekt/detekt
   - editorconfig-checker/editorconfig-checker
@@ -31,7 +32,6 @@ projects_with_merged:
   - interlynk-io/sbomqs
   - in-toto/go-witness
   - kubescape/kubescape
-  - mgechev/revive
   - mintoolkit/mint
   - MobSF/Mobile-Security-Framework-MobSF
   - mozilla/grcov
@@ -48,6 +48,8 @@ projects_with_merged:
   - PyCQA/isort
   - pylint-dev/astroid
   - pylint-dev/pylint
+  - reviewdog/reviewdog
+  - revive-lint/revive
   - rubocop/rubocop
   - scoverage/scalac-scoverage-plugin
   - SimonKagstrom/kcov
