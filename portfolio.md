@@ -1,7 +1,7 @@
 # Юрий Туманов — публикации и выступления
 ## Yuriy Tumanov — Publications and Talks
 
-Актуально на 23.10.2026 · As of 2026-10-23
+Актуально на 29.10.2026 · As of 2026-10-29
 
 ---
 
@@ -39,7 +39,7 @@
 ## Открытый код · Open source
 
 <!-- OSS-STATS -->
-**123** публичных PR приняты в сторонние репозитории за последние 12 месяцев (**23.10.2025–23.10.2026**); **127** PR открыты. За всё время: принятые патчи в **60** проектах, всего затронут **131** репозиторий; **30** PR закрыты без merge. Данные на **23.10.2026**.
+**125** публичных PR приняты в сторонние репозитории за последние 12 месяцев (**29.10.2025–29.10.2026**); **130** PR открыты. За всё время: принятые патчи в **61** проекте, всего затронуто **133** репозитория; **34** PR закрыты без merge. Данные на **29.10.2026**.
 <!-- /OSS-STATS -->
 
 Патчи в инструменты статического анализа, SBOM-утилиты и сканеры безопасности: pylint, astroid, rubocop, PMD, SpotBugs, detekt, revive, NullAway, sqlfluff, isort, docformatter, flake8-bugbear, prospector, codespell, syft, grype, grype-db, scancode-toolkit, cve-bin-tool, DependencyCheck, kubescape, MobSF, OpenSCAP, conftest, sbomqs, sbomasm, cyclonedx-gomod, gcovr, kcov, slipcover, cargo-llvm-cov, go-test-coverage, diff_cover, scalac-scoverage-plugin, lizard, vale, markdownlint-cli, editorconfig-checker, language-docker, requirements-detector.
@@ -161,7 +161,7 @@
 
 ## Пресса о работе · Press coverage
 
-**Tproger, 18 сентября 2026** — «AI пишет, AI проверяет: почему уязвимости появляются пачками и как понять, какие из них настоящие», автор Ислам Виндижев. Разбор доклада на OFFZONE 2026: поток сработок SAST, почему уверенному ответу модели верить нельзя, evidence-gate как требование перечислить проверяемые улики до вердикта, принцип «автоматизируем только обратимые решения».
+**Tproger, 18 сентября 2026** — «AI пишет, AI проверяет: почему уязвимости появляются пачками и как понять, какие из них настоящие», автор Ислам Виндижев. Материал с экспертными комментариями Юрия Туманова по теме доклада на OFFZONE 2026: поток сработок SAST, почему уверенному ответу модели верить нельзя, evidence-gate как требование перечислить проверяемые улики до вердикта, принцип «автоматизируем только обратимые решения».
 https://tproger.ru/articles/ai-piwet-ai-proveryaet-pochemu-uyazvimosti-poyavlyayutsya-pachkami-i-k
 
 ---

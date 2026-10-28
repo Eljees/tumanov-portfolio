@@ -1,22 +1,23 @@
 # Публичные PR автора Eljees вне собственных репозиториев.
 author: Eljees
-updated: "2026-10-23"
-period_start: "2025-10-23"
-period_end: "2026-10-23"
+updated: "2026-10-29"
+period_start: "2025-10-29"
+period_end: "2026-10-29"
 counts:
-  merged: 123
-  merged_12_months: 123
-  open: 127
-  closed_unmerged: 30
-  total: 280
-  projects_with_merged: 60
-  repos_touched: 131
+  merged: 125
+  merged_12_months: 125
+  open: 130
+  closed_unmerged: 34
+  total: 289
+  projects_with_merged: 61
+  repos_touched: 133
 query:
   merged: "is:pr author:Eljees -user:Eljees is:public is:merged"
   open: "is:pr author:Eljees -user:Eljees is:public is:open"
   closed_unmerged: "is:pr author:Eljees -user:Eljees is:public is:closed is:unmerged"
-  merged_12_months: "is:pr author:Eljees -user:Eljees is:public is:merged merged:2025-10-23..2026-10-23"
+  merged_12_months: "is:pr author:Eljees -user:Eljees is:public is:merged merged:2025-10-29..2026-10-29"
 projects_with_merged:
+  - 2dust/v2rayNG
   - Bachmann1234/diff_cover
   - CycloneDX/cyclonedx-dotnet
   - CycloneDX/cyclonedx-gomod
