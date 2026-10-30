@@ -1,4 +1,15 @@
 # Публикации / Publications. status: published | in_press | submitted | pitched | draft | to_verify
+- id: ccci-2026
+  year: 2026
+  status: in_press
+  venue_en: "2026 IEEE International Conference on Communications, Computing, Cybersecurity, and Informatics (CCCI 2026)"
+  title_en: "Evidence-Gated SAST Triage with Small Local LLMs: A ZeroFalse-Inspired Precision-First Pipeline"
+  authors: [Yury Tumanov]
+  paper_id: "1571283070"
+  presentation_date: "2026-10-17"
+  url_programme: https://ccci.udg.edu/CCCI2026_program_brochure_v2.pdf#page=16
+  note_ru: "Доклад состоялся. Публикация сборника и DOI пока не подтверждены; по письму организаторов от 29 октября ожидаются примерно через четыре недели после конференции."
+
 - id: vkb-2026-4
   year: 2026
   status: published

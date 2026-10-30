@@ -1,4 +1,26 @@
 # Выступления / Talks. status: delivered | confirmed | participation | to_verify
+- id: ccci-2026
+  year: 2026
+  date: "2026-10-17"
+  conference_dates: "2026-10-16/2026-10-18"
+  venue_ru: "IEEE CCCI 2026, Шанхай, Китай"
+  venue_en: "2026 IEEE International Conference on Communications, Computing, Cybersecurity, and Informatics, Shanghai, China"
+  title_en: "Evidence-Gated SAST Triage with Small Local LLMs: A ZeroFalse-Inspired Precision-First Pipeline"
+  status: delivered
+  format: online
+  presenter_location: "Shanghai, China"
+  track: "Cybersecurity 1, 14:45–16:00 (China Standard Time)"
+  paper_id: "1571283070"
+  urls:
+    programme: https://ccci.udg.edu/CCCI2026_program_brochure_v2.pdf#page=16
+    certificate: https://eljees.github.io/assets/certificates/ccci-2026-attendance-tumanov.pdf
+    portfolio: https://eljees.github.io/#ccci-2026
+    hotel_photo: https://eljees.github.io/assets/photos/ccci-2026-novotel-shanghai-caohejing.jpg
+    photo_source: https://ccci.udg.edu/venue.php
+  certificate_type: "Certificate of Attendance — online"
+  certificate_issue_date: "2026-10-17"
+  note_ru: "Доклад по видеосвязи из Шанхая; формат подтверждён автором. Программа подтверждает секцию и дату. Сертификат подтверждает онлайн-участие 16–18 октября. Novotel — отель из списка сайта конференции, не обозначение места проведения секции."
+
 - id: iscra-talks-2026
   year: 2026
   date: "2026-09-19"

@@ -3,12 +3,18 @@
 # Статусы сверены с перепиской в почте по состоянию на 08.09.2026.
 
 - id: ccci-2026
-  venue: "CCCI 2026 — International Conference on Computing, Communication and Intelligence"
+  venue: "CCCI 2026 — International Conference on Communications, Computing, Cybersecurity, and Informatics"
   title_en: "Evidence-Gated SAST Triage with Small Local LLMs: A ZeroFalse-Inspired Precision-First Pipeline"
   paper_id: "#1571283070 (EDAS)"
   status: accepted
   decision_date: "2026-09-04"
   review: "Две рецензии, обе Likely Accept (топ 10–30 % работ): relevance 4/5, technical contribution 4/5. Полные тексты рецензий — в письме о принятии от 04.09.2026."
+
+  presentation_date: "2026-10-17"
+  presentation_status: delivered
+  presentation_format: online
+  note_ru: "Доклад по видеосвязи из Шанхая состоялся 17 октября, Cybersecurity 1; сертификат онлайн-участия опубликован. Сборник и DOI ожидаются; статус уточнён 30.10.2026."
+  certificate: https://eljees.github.io/assets/certificates/ccci-2026-attendance-tumanov.pdf
 
 - id: iccc-2026
   venue: "IEEE ICCC 2026 — 12th Int. Conference on Computer and Communications, Chengdu, 11–14.12.2026"

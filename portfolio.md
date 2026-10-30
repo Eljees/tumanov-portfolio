@@ -1,7 +1,7 @@
 # Юрий Туманов — публикации и выступления
 ## Yuriy Tumanov — Publications and Talks
 
-Актуально на 29.10.2026 · As of 2026-10-29
+Актуально на 30.10.2026 · As of 2026-10-30
 
 ---
 
@@ -39,7 +39,7 @@
 ## Открытый код · Open source
 
 <!-- OSS-STATS -->
-**125** публичных PR приняты в сторонние репозитории за последние 12 месяцев (**29.10.2025–29.10.2026**); **130** PR открыты. За всё время: принятые патчи в **61** проекте, всего затронуто **133** репозитория; **34** PR закрыты без merge. Данные на **29.10.2026**.
+**127** публичных PR приняты в сторонние репозитории за последние 12 месяцев (**30.10.2025–30.10.2026**); **128** PR открыты. За всё время: принятые патчи в **63** проектах, всего затронуто **133** репозитория; **34** PR закрыты без merge. Данные на **30.10.2026**.
 <!-- /OSS-STATS -->
 
 Патчи в инструменты статического анализа, SBOM-утилиты и сканеры безопасности: pylint, astroid, rubocop, PMD, SpotBugs, detekt, revive, NullAway, sqlfluff, isort, docformatter, flake8-bugbear, prospector, codespell, syft, grype, grype-db, scancode-toolkit, cve-bin-tool, DependencyCheck, kubescape, MobSF, OpenSCAP, conftest, sbomqs, sbomasm, cyclonedx-gomod, gcovr, kcov, slipcover, cargo-llvm-cov, go-test-coverage, diff_cover, scalac-scoverage-plugin, lizard, vale, markdownlint-cli, editorconfig-checker, language-docker, requirements-detector.
@@ -49,6 +49,11 @@
 ## Выступления · Talks
 
 ### 2026
+
+**IEEE CCCI 2026**, 17 октября 2026, Шанхай, Китай — *Evidence-Gated SAST Triage with Small Local LLMs: A ZeroFalse-Inspired Precision-First Pipeline*. Доклад по видеосвязи из Шанхая, секция **Cybersecurity 1** (14:45–16:00 по времени Китая). Конференция: 16–18 октября; полное название — International Conference on Communications, Computing, Cybersecurity, and Informatics.
+Сертификат онлайн-участия: https://eljees.github.io/assets/certificates/ccci-2026-attendance-tumanov.pdf · Программа, с. 16: https://ccci.udg.edu/CCCI2026_program_brochure_v2.pdf#page=16 · Материалы: https://eljees.github.io/#ccci-2026
+
+*Presented by video link from Shanghai on 17 October 2026, Cybersecurity 1. Certificate of online attendance issued by IEEE CCCI 2026. Proceedings publication and DOI are pending.*
 
 **ISCRA Talks 2026** (19 сентября 2026, Конгресс-холл МГТУ им. Н. Э. Баумана, Москва), зал «Квант», 16:45–17:30 — **«Не все дефекты одинаковы: как структура SAST-находки ломает LLM-триаж»** / *Not all defects are alike: how the structure of a SAST finding breaks LLM triage*. Срабатывания SAST делятся на два типа по форме доказательства: **property** — нарушение факта в одной точке кода (например, пароль в исходнике), **trace** — путь данных от источника ко входу опасной операции. Эксперимент на 38 классах дефектов: один универсальный вопрос «покажи путь атаки» похоронил 140 из 363 реальных уязвимостей — «похоронил» значит закрыл реальную уязвимость как ложное срабатывание. В докладе — роутер (маршрутизатор) по структуре доказательства, семь подтипов property-сработок P0–P6, evidence-gate (правило «перечисли факты до вердикта») и экзамен против 2 546 решений людей.
 Программа конференции: https://iscra-talks.ru/#tracks · Презентация: https://eljees.github.io/slides/Tumanov_ZeroFalse_ISCRA_2026.pdf
@@ -168,13 +173,13 @@ https://tproger.ru/articles/ai-piwet-ai-proveryaet-pochemu-uyazvimosti-poyavlyay
 
 ## Заявки и подачи 2026 · Submission pipeline 2026
 
-Статусы сверены с перепиской по состоянию на 8 сентября 2026 года.
+Базовый срез заявок — 8 сентября 2026 года; сведения о состоявшемся CCCI 2026 и материалах обновлены 30 октября 2026 года.
 
 ### Принято
 
 | Площадка · Venue | Работа · Work | Решение |
 |---|---|---|
-| **CCCI 2026** | *Evidence-Gated SAST Triage with Small Local LLMs: A ZeroFalse-Inspired Precision-First Pipeline* (EDAS #1571283070) | **Принято 4 сентября 2026.** Две рецензии, обе Likely Accept — верхние 10–30 % работ |
+| **CCCI 2026** | *Evidence-Gated SAST Triage with Small Local LLMs: A ZeroFalse-Inspired Precision-First Pipeline* (EDAS #1571283070) | **Принято 4 сентября 2026; доклад состоялся 17 октября по видеосвязи из Шанхая.** Сертификат участия опубликован; сборник и DOI ожидаются |
 | **OFFZONE 2026**, трек AppSec.Zone | «ZeroFalse для SAST: локальные LLM, evidence-gate и triage без галлюцинаций» | **Принято 14 июля 2026**, доклад состоялся 20–21 августа |
 
 ### На рассмотрении
