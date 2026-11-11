@@ -1,21 +1,21 @@
 # Публичные PR автора Eljees вне собственных репозиториев.
 author: Eljees
-updated: "2026-10-30"
-period_start: "2025-10-30"
-period_end: "2026-10-30"
+updated: "2026-11-11"
+period_start: "2025-11-11"
+period_end: "2026-11-11"
 counts:
-  merged: 127
-  merged_12_months: 127
-  open: 128
-  closed_unmerged: 34
-  total: 289
-  projects_with_merged: 63
+  merged: 136
+  merged_12_months: 136
+  open: 119
+  closed_unmerged: 40
+  total: 295
+  projects_with_merged: 66
   repos_touched: 133
 query:
   merged: "is:pr author:Eljees -user:Eljees is:public is:merged"
   open: "is:pr author:Eljees -user:Eljees is:public is:open"
   closed_unmerged: "is:pr author:Eljees -user:Eljees is:public is:closed is:unmerged"
-  merged_12_months: "is:pr author:Eljees -user:Eljees is:public is:merged merged:2025-10-30..2026-10-30"
+  merged_12_months: "is:pr author:Eljees -user:Eljees is:public is:merged merged:2025-11-11..2026-11-11"
 projects_with_merged:
   - 2dust/v2rayNG
   - Bachmann1234/diff_cover
@@ -46,10 +46,13 @@ projects_with_merged:
   - interlynk-io/sbomasm
   - interlynk-io/sbomqs
   - kisielk/errcheck
+  - koalaman/shellcheck
   - kubescape/kubescape
   - mintoolkit/mint
   - mozilla/grcov
+  - nbQA-dev/nbQA
   - open-policy-agent/conftest
+  - openvex/go-vex
   - oras-project/oras-go
   - ossf/allstar
   - ossf/cve-bin-tool
